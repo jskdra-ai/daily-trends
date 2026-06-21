@@ -1,0 +1,1 @@
+python C:\Users\skybi\daily-trends\daily_trends.py
