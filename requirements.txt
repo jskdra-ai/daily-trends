@@ -1,0 +1,7 @@
+pytrends
+requests
+python-dotenv
+google-generativeai
+gitpython
+beautifulsoup4
+lxml
